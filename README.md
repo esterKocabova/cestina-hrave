@@ -1,6 +1,6 @@
 # Čeština hravě
 
-Jednoduchá aplikace pro procvičování českého jazyka pro 4. třídu. Obsahuje 7 okruhů a 32 úloh.
+Jednoduchá aplikace pro procvičování českého jazyka pro 4. třídu. Obsahuje 13 okruhů a 101 úloh.
 
 ## Soubory
 
